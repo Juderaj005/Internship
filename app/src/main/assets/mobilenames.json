@@ -1,0 +1,35 @@
+{"mobilenames":[
+  {
+    "mobileid":"1",
+    "mobilename":"OnePlus"
+  },
+  {
+    "mobileid":"2",
+    "mobilename":"Samsung Galaxy"
+  },
+  {
+    "mobileid":"3",
+    "mobilename":"Vivo"
+  },
+  {
+    "mobileid":"4",
+    "mobilename":"Realme"
+  },
+  {
+    "mobileid":"5",
+    "mobilename":"Google Pixel"
+  },
+  {
+    "mobileid":"6",
+    "mobilename":"Redmi"
+  },
+  {
+    "mobileid":"7",
+    "mobilename":"Oppo"
+  },
+  {
+    "mobileid":"8",
+    "mobilename":"Poco"
+  }
+]
+}
